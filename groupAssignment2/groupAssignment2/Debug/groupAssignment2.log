@@ -1,0 +1,3 @@
+﻿  groupAssignment.cpp
+C:\Users\Akihide\source\repos\groupAssignment2\groupAssignment2\groupAssignment.cpp(174,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  groupAssignment2.vcxproj -> C:\Users\Akihide\source\repos\groupAssignment2\Debug\groupAssignment2.exe
